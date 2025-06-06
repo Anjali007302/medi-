@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+}
+
+/* about-page */
+
+.about {
+    color: #fff;
+    margin-top: 8%;
+}
+
+.about h1 {
+    font-weight: 700;
+}
+
+.about p {
+    padding-top:20px ;
+    font-size: 16px;
+}
+
+.about span:hover{
+    color: #000;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+/* first end */
+
+
+
+/* second starts */
+.about-img {
+    width: 750px;
+    float: left;
+    margin-top: 5%;
+}
+
+.second-sec {
+    padding-top: 90px;
+    line-height: 23px;
+}
+
+.second-sec span {
+    color: #1A76D1;
+    font-size: 18px;
+}
+
+.second-sec h1 {
+    color: #2C2D3F;
+    font-size: 43px;
+    font-weight: 700;
+    width: 80%;
+}
+
+.second-sec p {
+    width: 78%;
+    font-size: 17.1px;
+    color: #888888;
+
+}
+
+.second-sec .icofont {
+    background-color: #1A76D12B;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 50%;
+    color: #1A76D1;
+}
+
+
+/* second end */
+
+
+
+
+/* third srtarts */
+.three {
+    margin-top: 8%;
+}
+
+.three-1, .three-2, .three-3 {
+    box-shadow: -1px -1px 50px rgb(222, 232, 236);
+    padding-top: 25px;
+}
+
+
+.three-1:hover, .three-2:hover, .three-3:hover {
+    background-color: #1A76D1;
+    transition: 1s;
+    color: #fff;
+}
+
+
+.three-1 .icofont:hover, .three-2 .icofont:hover, .three-3 .icofont:hover{
+    background-color: #fff;
+    color: #1A76D1;
+    transition: 0.5s;
+}
+
+
+.three-1 h4:hover, .three-2 h4:hover, .three-3 h4:hover {
+    color: #fff;
+}
+
+
+.three-1 p:hover, .three-2 p:hover, .three-3 p:hover {
+    color: #fff;
+}
+
+
+.three-1 .icofont, .three-2 .icofont, .three-3 .icofont {
+    color: #fff;
+    font-size: 25px;
+    background-color: #1A76D1;
+    padding: 12px;
+    border-radius: 50%;
+}
+
+.three-1 h4, .three-2 h4, .three-3 h4 {
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+
+.three-1 p, .three-2 p, .three-3 p {
+    margin-top: 70px;
+    margin-left: -70px;
+    font-size: 14px;
+}
+
+
+
+/* third end */
+
+
+
+/* forth starts */
+.four-left {
+    padding: 20px;
+    margin-left: 200px;
+    margin-top: 5%;
+}
+
+.four-left span {
+    color: #1A76D1;
+    font-size: 18px;
+}
+
+
+.four-left h1 {
+    font-size: 44px;
+    font-weight: 700;
+    color: #2C2D3F;
+}
+
+.four-left p {
+    font-size: 14px;
+    color: #888888;
+}
+
+
+.four-1 {
+    padding-top: 15px;
+}
+
+.four-1 .icofont, .four-2 .icofont, .four-3 .icofont, .four-4 .icofont{
+    font-size: 23px;
+    color: #1A76D1;
+}
+
+.four-1 h4, .four-2 h4, .four-3 h4, .four-4 h4 {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.four-1 p, .four-2 p, .four-3 p, .four-4 p {
+    font-size: 13px;
+}
+
+
+
+.four-right {
+    margin-top: 5%;
+}
+
+
+/* forth end */

@@ -1,0 +1,54 @@
+/* doctors starts */
+.doctor-second {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.doctor-section {
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px #e6e9ec;
+}
+
+.doctor-section:hover{
+    background-color: #f1f4f8;
+    transition: 0.5s;
+}
+
+
+
+
+/* doctor section-1 */
+.doctor-section-1 {
+    margin-top: 8%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px #e6e9ec;
+}
+
+.doctor-section-1:hover{
+    background-color: #f1f4f8;
+    transition: 0.5s;
+}
+
+.doctor-content {
+    padding: 20px 15px;
+  
+}
+
+.doctor-content span {
+    font-size: 13px;
+    color: #666666;
+}
+
+.doctor-content h4 {
+    font-size: 18px;
+    color: #2C2D3F;
+}
+
+.doctor-content h4:hover {
+    color: #1A76D1;
+    cursor: pointer;
+}
+
+
+
+/* doctor section end */

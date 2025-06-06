@@ -1,0 +1,112 @@
+/* contact page starts */
+.contact-map {
+    margin-top: 7%;
+    box-shadow: 1px 1px 25px #e6e9ec;
+}
+
+.contact-form {
+    padding: 40px;
+    margin-top: 7%;
+    box-shadow: 1px 1px 25px #e6e9ec;
+    
+}
+
+.contact-form h2 {
+    font-weight: 700;
+    color: #333333;
+    font-size: 32px;
+    margin-left: 20px;
+}
+
+.contact-form p {
+    font-size: 14px;
+    color: #333333;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.contact-form input {
+    width: 50px;
+    height: 50px;
+    background-color: #ffffff;
+    padding: 0px 18px;
+    margin-top: 10px;
+    border: 1px solid rgb(229, 223, 223);
+}
+
+
+.contact-form textarea {
+    border: 1px solid rgb(229, 223, 223);
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 17px;
+}
+
+.contact-form .btn {
+    width: 100%;
+    background-color: #1A76D1;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.contact-form .btn:hover {
+    background-color: #000;
+    color: #ffffff;
+    transition: 1s;
+}
+
+.contact-form .fa {
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 14px;
+    color: #1A76D1;
+
+}
+
+
+
+
+/* third starts */
+
+.contact-third {
+    background-color: #1A76D1;
+    color: #ffffff;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 70px;
+}
+
+
+.contact-third:hover {
+    box-shadow: -6px 44px 36px -29px rgba(74,118,230,1);
+    margin-top: 1px ;
+    transition: 1s;
+   
+}
+
+
+.contact-third .icofont {
+    font-size: 40px;
+    float: left;
+    padding: 20px;
+}
+
+.contact-third h4{
+    padding: 20px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.contact-third p{
+    margin-top: -20px;
+    text-align: center;
+    margin-right: 30px;
+    font-size: 14px;
+}
+
+
+/* contact page end */

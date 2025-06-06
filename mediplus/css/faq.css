@@ -1,0 +1,83 @@
+/* bootstrap 5 css */
+.main {
+    width: 72%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+.accordion-button::after {
+    background: none;
+    font-family: bootstrap-icons !important;
+    content:"\F64D";
+    font-weight: 600;
+
+}
+
+.accordion-button:not(.collapsed)::after {
+    background: none;
+    content:"\F2EA";
+}
+
+
+.accordion-button:not(.collapsed){
+    color: white;
+    background: #1a76d1;
+    box-shadow: inset 0 calc(-1* var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+}
+
+.accordion-button.collapsed:hover{
+    border-bottom-right-radius: var(--bs-accordion-inner-border-radius);
+    border-bottom-left-radius: var(--bs-accordion-inner-border-radius);
+    background: #1a76d1;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

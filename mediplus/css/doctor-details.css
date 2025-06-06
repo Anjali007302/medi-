@@ -1,0 +1,91 @@
+/* doctor details starts */
+
+.doctor-details .card {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.doctor-details .content {
+    padding: 70px 0px 0px 60px ;
+    background-color: #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.doctor-details .content h3 {
+    font-size: 20px;
+    color: #2C2D3F;
+    font-weight: 700;
+}
+
+.doctor-details .fonts i {
+    color: #1A76D1;
+}
+
+.doctor-details .content li {
+    list-style: none;
+    font-size: 15px;
+    color: #2C2D3F;
+    margin: 0px 0px 10px;
+}
+
+.working li {
+    color: #2C2D3F;
+    margin: 0px 0px 10px;
+    font-size: 14px;
+}
+
+
+.doctor-details .content span i {
+    color: #888888;
+    margin-top:5% ;
+    margin: 50px 0px 0px ;
+    font-size: 14px;
+    padding: 7px;
+    margin-right: 9px;
+    border-radius: 2px;
+    border: 1px solid #888888;
+}
+
+
+
+/* detailing */
+.detailing {
+    padding: 70px 0px 60px;
+}
+
+.detailing h3 {
+    color: #2C2D3F;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.detailing p {
+    font-size: 22px;
+    color: #757575;
+    margin: 10px 0px 5px;
+}
+
+.detailing .deg {
+    font-size: 16px ;
+    color: #757575;
+}
+
+.detailing .biography h3 {
+    color: #1A76D1;
+    font-size: 24px;
+    margin: 25px 0px;
+}
+
+.detailing .biography p {
+    font-size: 14px;
+    color: #757575;
+}
+
+.detailing .biography li {
+    list-style: none;
+    color: #757575;
+    margin: 0px 0px 10px;
+    font-size: 14px;
+}
+
+
+/* doctor-details end */

@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: "poppins", serif;
+}
+
+
+.top-section {
+    border-bottom: 1px solid #eee;
+    width: 100%;
+}
+
+
+.left{
+    padding-top: 20px;
+}
+
+.left ul li{
+    display: inlin e;
+    margin-left: 30px;
+}
+
+.left ul li a{
+    color: #000;
+    text-decoration: none;
+}
+
+.left ul li a:hover {
+    color: #1A76D1;
+}
+
+.right{
+    padding-top: 25px;
+}
+
+
+.right .fa{
+    color: #1A76D1;
+}
+
+.right p:hover {
+    color: #1A76D1;
+    cursor: pointer;
+}
+
+
+
+/* header end */
+
+
+
+
+
+
+/* navbar starts */
+.navbar-header span{
+    background-color: #1A76D1;
+}
+
+.master{
+    width: 100%;
+}
+
+#mynavigation ul li a{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #2c2d3f;
+    font-size: 15px;
+}
+
+
+#mynavigation .active  {
+    border-bottom: 3px solid #1A76D1;
+}
+
+
+#mynavigation li a:focus, #mynavigation li a:hover {
+    background-color: transparent;
+    color: #1A76D1;
+}
+
+
+
+.doctor:hover , .services:hover , .pages:hover , .blogs:hover , .contact:hover {
+    border-bottom: 3px solid #1A76D1;
+}
+
+
+#mynavigation li ul{
+    border-left: 3px solid #1A76D1;
+    margin-left: 10px;
+}
+
+
+
+#mynavigation .btn-1{
+    background-color: #1A76D1;
+    margin-top: 12px;
+    margin-left: 80px;
+    color: #fff;
+    font-size: 17px;
+}
+
+#mynavigation .btn-1:hover{
+    background-color: #000;
+    transition: 1s;
+}
+
+/* navbar end */
+
+
+
+
